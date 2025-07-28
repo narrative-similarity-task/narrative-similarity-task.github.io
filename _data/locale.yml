@@ -1,0 +1,3 @@
+# @start locale config
+en: &EN
+  COPYRIGHT_DATES         : "2025"

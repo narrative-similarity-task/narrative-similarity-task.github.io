@@ -1,0 +1,20 @@
+title: Narrative Similarity Task
+description: "SemEval-2026 Task 4: Narrative Story Similarity and Narrative Representation Learning"
+theme: jekyll-text-theme
+
+navs:
+  - title: "Home"
+    url: "/"
+  - title:      Home
+    url:        '/'
+  - title:      Timeline
+    url:        '/timeline/'
+  - title:      Data
+    url:        '/data/'
+
+markdown    : kramdown
+highlighter : rouge
+permalink   : pretty
+
+license: CC-BY-SA-4.0
+markdown: CommonMarkGhPages
