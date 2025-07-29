@@ -5,7 +5,7 @@ title: Data
 ---
 In total, we annotated just over 1000 triples of story summaries. All summaries are sourced from Wikipedia.
 
-- [Sample data](SemEval2026-Task_4-sample.zip): 39 items (with labels)
+- [Sample data](SemEval2026-Task_4-sample-v1.zip): 39 items (with labels)
     - Also available as individual items, simulating Track B
 
 
