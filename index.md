@@ -39,11 +39,12 @@ If you have any questions directed at the organizers, you can reach us [here](ma
 
 ## Organizers
 - [Hans Ole Hatzel](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/hans-ole-hatzel.html), University of Hamburg
-- Ekaterina Artemova, Toloka AI
+- Ekaterina Artemova, [Toloka AI](https://toloka.ai/)
 - [Haimo Stiemer](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/stiemer/stiemer.de.jsp), Technical University of Darmstadt
-- Natalia Fedorova, Toloka AI
+- Natalia Fedorova, [Toloka AI](https://toloka.ai/)
 - [Evelyn Gius](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/gius/), Technical University of Darmstadt
 - [Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html), University of Hamburg
 
 ## Acknowledgments
-The work is supported by the German Research Foundation (DFG) under grant BI 1544/11-2 and GI 1105/3-2 as part of the project ''Unitizing Plot to Advance Analysis of Narrative Structure (PLANS)''.
+Thank you to [Toloka AI](https://www.linkedin.com/company/toloka/) for providing annotation resources.
+The work is supported by the German Research Foundation (DFG) under grant BI 1544/11-2 and GI 1105/3-2 as part of the project ''Unitizing Plot to Advance Analysis of Narrative Structure (PLANS)''. 
