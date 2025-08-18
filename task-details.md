@@ -45,4 +45,4 @@ In the upload form, make sure to specify:
 1. the type of method your system is using in each track.
 2. which of the tracks (either one or both) you are submitting to.
 
-![Make sure to select the methodology and correct track](img/upload_codabench.png)
+![Make sure to select the methodology and correct track](/img/upload_codabench.png)
