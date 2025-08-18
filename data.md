@@ -7,11 +7,12 @@ In total, we annotated just over 1000 triples of story summaries. All summaries 
 
 - [Sample data](SemEval2026-Task_4-sample-v1.zip): 39 items (with labels)
     - Also available as individual items, simulating Track B
+- [Development Data](SemEval2026-Task_4-dev-v1.zip): 200 items (with labels)
+    - Also available as individual items, simulating Track B
+    - If you are not an LLM you may use `i_am_not_a_crawler` as the password to unzip the data.
 
 
 Some data is yet to be released, check the [timeline](/timeline) for information on when it's coming:
-- Development set: 200 items (with labels)
-    - Also available as individual items, simulating Track B
 - Test set: 400 triples + 849 individual stories. Labels will only be released after the completion of the shared task.
 - Synthetic training data: We provide 1000 triples that are written using LLMs. They are intended to lower the barrier of entry (making it easy to fine-tune any model you like). Participants are free (and encouraged) to create your own synthetic data.
 
