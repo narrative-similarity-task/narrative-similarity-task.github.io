@@ -32,7 +32,7 @@ You will need to upload a zip file with the following structure:
 └── track_b.{npy,jsonl}
 ```
 
-Make sure to fullfill all these requirements:
+Make sure to fulfill all these requirements:
 - Have a file for each track you are participating in (you can deselect either one on the upload page)
 - Both files need to be at the root level of the zip file
 - The order in the files must correspond to that in our provided data
