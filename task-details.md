@@ -11,12 +11,12 @@ Your system is asked to identify which of the two choices is more similar.
 These representations should have a cosine similarity that aligns with the underlying stories' narrative similarities.
 We, the organizers, will validate your submitted representations against triple-wise similarity ratings.
 
-The task will be run on CodaBench. A link will follow soon.
+The task is currently running [here on CodaBench](https://www.codabench.org/competitions/10273/).
 
 ## Baselines
 We provide [baseline systems](https://github.com/narrative-similarity-task/semeval-2026-task-4-baselines) for both tracks for you to build upon.
-
-Our output formats for your submission to Codalab are yet to be defined but will be integrated into the baseline systems.
+The output format of the baselines is suitable for uploading to CodaBench.
+The baselines in the CodaBench leaderboard are the GPT-4o-mini prompting approach for Track A and a sentenceBERT approach (specifically "all-MiniLM-L6-v2") for Track B.
 
 ## Rules
 In Track B, embeddings are, at inference time, to be created **on individual story instances only**.

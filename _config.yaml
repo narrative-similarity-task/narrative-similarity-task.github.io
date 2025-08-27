@@ -17,4 +17,4 @@ highlighter : rouge
 permalink   : pretty
 
 license: CC-BY-SA-4.0
-markdown: CommonMarkGhPages
+markdown: kramdown
