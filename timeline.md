@@ -8,7 +8,7 @@ This preliminary timeline is subject to change:
 - ~~2025-08-01: Task announced (with sample data)~~
 - ~~2025-08-18: Development Data Release~~
 - ~~2025-08-26: Task Launch on CodaLab~~
-- 2025-09-XX: Release of synthetic training data
+- ~~2025-09-15: Release of synthetic training data~~
 - 2026-01-01: Start of evaluation period (with unlabeled test data released)
 - 2026-01-23: End of evaluation period
 - 2026-02-XX: Paper submission
