@@ -39,7 +39,7 @@ If you have any questions directed at the organizers, you can reach us [here](ma
 
 ## Organizers
 - [Hans Ole Hatzel](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/hans-ole-hatzel.html), University of Hamburg
-- [Ekaterina Artemova](https://scholar.google.com/citations?user=G0lCb3wAAAAJ), [Toloka AI](https://toloka.ai/)
+- [Ekaterina Artemova](https://scholar.google.com/citations?user=G0lCb3wAAAAJ), [Toloka AI](https://toloka.ai/), [German UDS](https://german-uds.de/team/ekaterina-artemova)
 - [Haimo Stiemer](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/stiemer/stiemer.de.jsp), Technical University of Darmstadt
 - [Evelyn Gius](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/gius/), Technical University of Darmstadt
 - [Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html), University of Hamburg
