@@ -16,6 +16,3 @@ This preliminary timeline is subject to change:
 - 2026-04-09: Author notifications
 - 2026-04-30: Camera ready due
 - 2026-07-03/2026-07-04: SemEval workshop
-
-**Attention:** the deadlines are **not given** as anywhere on earth (AoE) times.
-All deadlines are given in CodaBench server time (as of writing this it is UTC+2).
