@@ -1,0 +1,257 @@
+{
+    "embeddings": [
+        {
+            "metadataPath": "oss_data/COGNAC.tsv",
+            "tensorName": "COGNAC",
+            "tensorPath": "oss_data/COGNAC.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/YNU-HPCC.tsv",
+            "tensorName": "YNU-HPCC",
+            "tensorPath": "oss_data/YNU-HPCC.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/TeleAI.tsv",
+            "tensorName": "TeleAI",
+            "tensorPath": "oss_data/TeleAI.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Narrative Team.tsv",
+            "tensorName": "Narrative Team",
+            "tensorPath": "oss_data/Narrative Team.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/ttda704.tsv",
+            "tensorName": "ttda704",
+            "tensorPath": "oss_data/ttda704.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/UIT-CITD-TTNT-K2025.1.tsv",
+            "tensorName": "UIT-CITD-TTNT-K2025.1",
+            "tensorPath": "oss_data/UIT-CITD-TTNT-K2025.1.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/NCL&HKU-NarrSim.tsv",
+            "tensorName": "NCL&HKU-NarrSim",
+            "tensorPath": "oss_data/NCL&HKU-NarrSim.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/SoloSemantics.tsv",
+            "tensorName": "SoloSemantics",
+            "tensorPath": "oss_data/SoloSemantics.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Comhis.tsv",
+            "tensorName": "Comhis",
+            "tensorPath": "oss_data/Comhis.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Marsan.tsv",
+            "tensorName": "Marsan",
+            "tensorPath": "oss_data/Marsan.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/LENSonNarratives.tsv",
+            "tensorName": "LENSonNarratives",
+            "tensorPath": "oss_data/LENSonNarratives.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Team UBSE.tsv",
+            "tensorName": "Team UBSE",
+            "tensorPath": "oss_data/Team UBSE.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Team CV.tsv",
+            "tensorName": "Team CV",
+            "tensorPath": "oss_data/Team CV.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/CUNI.tsv",
+            "tensorName": "CUNI",
+            "tensorPath": "oss_data/CUNI.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/CuriosAI.tsv",
+            "tensorName": "CuriosAI",
+            "tensorPath": "oss_data/CuriosAI.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/NLP-FSDM.tsv",
+            "tensorName": "NLP-FSDM",
+            "tensorPath": "oss_data/NLP-FSDM.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/MoodMetric .tsv",
+            "tensorName": "MoodMetric ",
+            "tensorPath": "oss_data/MoodMetric .bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/CophiWue.tsv",
+            "tensorName": "CophiWue",
+            "tensorPath": "oss_data/CophiWue.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/TFB.tsv",
+            "tensorName": "TFB",
+            "tensorPath": "oss_data/TFB.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/L3IRIT.tsv",
+            "tensorName": "L3IRIT",
+            "tensorPath": "oss_data/L3IRIT.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/AspectBlender.tsv",
+            "tensorName": "AspectBlender",
+            "tensorPath": "oss_data/AspectBlender.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/PabloAPertuzD.tsv",
+            "tensorName": "PabloAPertuzD",
+            "tensorPath": "oss_data/PabloAPertuzD.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/LSX-UniWue.tsv",
+            "tensorName": "LSX-UniWue",
+            "tensorPath": "oss_data/LSX-UniWue.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Mendel292.tsv",
+            "tensorName": "Mendel292",
+            "tensorPath": "oss_data/Mendel292.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Spinfo Cologne.tsv",
+            "tensorName": "Spinfo Cologne",
+            "tensorPath": "oss_data/Spinfo Cologne.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Cryptix.tsv",
+            "tensorName": "Cryptix",
+            "tensorPath": "oss_data/Cryptix.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/IIITH Boys.tsv",
+            "tensorName": "IIITH Boys",
+            "tensorPath": "oss_data/IIITH Boys.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
+            "metadataPath": "oss_data/Lakuna Inc..tsv",
+            "tensorName": "Lakuna Inc.",
+            "tensorPath": "oss_data/Lakuna Inc..bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        }
+    ],
+    "modelCheckpointPath": "Demo datasets"
+}

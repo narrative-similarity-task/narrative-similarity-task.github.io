@@ -1,0 +1,29 @@
+---
+---
+#dataset-browser { 
+  background-color: #f9fafb !important; 
+}
+
+details > summary::-webkit-details-marker { 
+  display: none !important; 
+}
+
+/* Hide Labels functionality */
+#dataset-browser.hide-labels .obscure-label { 
+  color: #111827 !important; 
+  background-color: #111827 !important; 
+}
+
+#dataset-browser.hide-labels .obscure-label-container:hover .obscure-label { 
+  color: inherit !important; 
+  background-color: transparent !important; 
+}
+
+.article__header {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.main {
+  display: contents;
+}

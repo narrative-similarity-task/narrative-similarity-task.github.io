@@ -1,0 +1,33 @@
+---
+---
+.main {
+  display: contents;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0
+}
+
+.page__comments {
+  margin-top: 0;
+  margin-bottom: 0
+}
+
+.article__header {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.iframe-container {
+  height: calc(100vh - var(--header-height, 0px) - var(--footer-height, 0px));
+  width: 100%;
+  overflow: hidden;    /* Clips any "ghost" pixels protruding from the bottom */
+  line-height: 0;      /* Secondary defense against inline spacing */
+  font-size: 0;        /* Tertiary defense */
+}
+
+.iframe-container iframe {
+  flex-grow: 1;
+  width: 100%;
+  height: 100%;
+  border: none;
+}

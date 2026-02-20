@@ -12,7 +12,6 @@ navs:
   - title:      Data
     url:        '/data/'
 
-markdown    : kramdown
 highlighter : rouge
 permalink   : pretty
 
