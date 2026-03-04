@@ -19,6 +19,15 @@
             ]
         },
         {
+            "metadataPath": "oss_data/hits_team.tsv",
+            "tensorName": "hits_team",
+            "tensorPath": "oss_data/hits_team.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
+        },
+        {
             "metadataPath": "oss_data/TeleAI.tsv",
             "tensorName": "TeleAI",
             "tensorPath": "oss_data/TeleAI.bytes",
@@ -46,9 +55,9 @@
             ]
         },
         {
-            "metadataPath": "oss_data/UIT-CITD-TTNT-K2025.1.tsv",
-            "tensorName": "UIT-CITD-TTNT-K2025.1",
-            "tensorPath": "oss_data/UIT-CITD-TTNT-K2025.1.bytes",
+            "metadataPath": "oss_data/CITD@UIT.tsv",
+            "tensorName": "CITD@UIT",
+            "tensorPath": "oss_data/CITD@UIT.bytes",
             "tensorShape": [
                 849,
                 3072
@@ -82,18 +91,9 @@
             ]
         },
         {
-            "metadataPath": "oss_data/Marsan.tsv",
-            "tensorName": "Marsan",
-            "tensorPath": "oss_data/Marsan.bytes",
-            "tensorShape": [
-                849,
-                3072
-            ]
-        },
-        {
-            "metadataPath": "oss_data/LENSonNarratives.tsv",
-            "tensorName": "LENSonNarratives",
-            "tensorPath": "oss_data/LENSonNarratives.bytes",
+            "metadataPath": "oss_data/MarSan.tsv",
+            "tensorName": "MarSan",
+            "tensorPath": "oss_data/MarSan.bytes",
             "tensorShape": [
                 849,
                 3072
@@ -145,18 +145,9 @@
             ]
         },
         {
-            "metadataPath": "oss_data/MoodMetric .tsv",
-            "tensorName": "MoodMetric ",
-            "tensorPath": "oss_data/MoodMetric .bytes",
-            "tensorShape": [
-                849,
-                3072
-            ]
-        },
-        {
-            "metadataPath": "oss_data/CophiWue.tsv",
-            "tensorName": "CophiWue",
-            "tensorPath": "oss_data/CophiWue.bytes",
+            "metadataPath": "oss_data/MoodMetric.tsv",
+            "tensorName": "MoodMetric",
+            "tensorPath": "oss_data/MoodMetric.bytes",
             "tensorShape": [
                 849,
                 3072
@@ -181,27 +172,9 @@
             ]
         },
         {
-            "metadataPath": "oss_data/AspectBlender.tsv",
-            "tensorName": "AspectBlender",
-            "tensorPath": "oss_data/AspectBlender.bytes",
-            "tensorShape": [
-                849,
-                3072
-            ]
-        },
-        {
-            "metadataPath": "oss_data/PabloAPertuzD.tsv",
-            "tensorName": "PabloAPertuzD",
-            "tensorPath": "oss_data/PabloAPertuzD.bytes",
-            "tensorShape": [
-                849,
-                3072
-            ]
-        },
-        {
-            "metadataPath": "oss_data/LSX-UniWue.tsv",
-            "tensorName": "LSX-UniWue",
-            "tensorPath": "oss_data/LSX-UniWue.bytes",
+            "metadataPath": "oss_data/VerbaNexAI.tsv",
+            "tensorName": "VerbaNexAI",
+            "tensorPath": "oss_data/VerbaNexAI.bytes",
             "tensorShape": [
                 849,
                 3072
@@ -244,9 +217,9 @@
             ]
         },
         {
-            "metadataPath": "oss_data/Lakuna Inc..tsv",
-            "tensorName": "Lakuna Inc.",
-            "tensorPath": "oss_data/Lakuna Inc..bytes",
+            "metadataPath": "oss_data/Lacuna Inc..tsv",
+            "tensorName": "Lacuna Inc.",
+            "tensorPath": "oss_data/Lacuna Inc..bytes",
             "tensorShape": [
                 849,
                 3072

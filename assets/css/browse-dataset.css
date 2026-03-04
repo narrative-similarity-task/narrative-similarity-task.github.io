@@ -27,3 +27,12 @@ details > summary::-webkit-details-marker {
 .main {
   display: contents;
 }
+
+.page__footer {
+  grid-column: 1 / -1; /* Spans across all grid columns */
+  background-color: #f0f0f0; /* Use your theme's footer color */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
