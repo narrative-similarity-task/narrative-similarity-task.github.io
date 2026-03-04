@@ -39,10 +39,10 @@ title: Results
   }
 </style>
 
-The shared task has concluded. We thank all participating teams and especially those who have created system description papers for us all to learn from!
-This page captures the results for all teams, besides the final scores you can also explore the decisions of each system on individual instances.
+The shared task has concluded; we are waiting for the review process of all papers to take its course. We thank all participating teams and especially those who have created system description papers for us all to learn from!
+This page captures the results for all teams; beside the final scores, you can also explore the decisions of each system on individual instances.
 
-Once available we will link all papers on this page.
+Once available, we will link all papers on this page.
 
 ## Result Exploration
 We offer two views for exploring the decisions all teams made for individual examples.
@@ -61,7 +61,7 @@ For all teams and the complete test split, you can [explore the predictions here
 
 [![Embedding Browser](/img/embedding_browser.png)](/browse_embeddings/)
 
-For Track B you can [explore all embeddings here](/browse_embeddings/). We use a patched version of the tensorboard embedding projector, you can check out their [documentation](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin).
+For Track B, you can [explore all embeddings here](/browse_embeddings/). We use a patched version of the TensorBoard embedding projector; you can check out their [documentation](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin).
 
 </div>
 
