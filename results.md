@@ -101,7 +101,7 @@ You can sort this table by the results in Track A or Track B. For more details, 
 | MoodMetric          | 65.00              | 62.00              |
 | PEU Lab             | 64.50              | -                  |
 | Narrative Team      | 64.25              | 69.25              |
-| ChulaNLP            | 63.50              | -                  |
+| ChulaNLP            | 63.50              | 60.75              |
 | blue                | 62.50              | -                  |
 | Team HausaNLP       | 61.50              | -                  |
 | TFB                 | 61.25              | 61.50              |
