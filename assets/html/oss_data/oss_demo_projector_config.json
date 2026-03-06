@@ -224,6 +224,15 @@
                 849,
                 3072
             ]
+        },
+        {
+            "metadataPath": "oss_data/ChulaNLP.tsv",
+            "tensorName": "ChulaNLP",
+            "tensorPath": "oss_data/ChulaNLP.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
         }
     ],
     "modelCheckpointPath": "Demo datasets"
