@@ -49,8 +49,8 @@ window.addEventListener('load', function() {
       return !isNaN(item) || item === '-';
     }, 
     function(a, b) {
-      const valA = a.trim() === '-' ? 999999 : parseFloat(a);
-      const valB = b.trim() === '-' ? 999999 : parseFloat(b);
+      const valA = a.trim() === '-' ? -999999 : parseFloat(a);
+      const valB = b.trim() === '-' ? -999999 : parseFloat(b);
       return valA - valB;
     }
   );
