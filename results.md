@@ -94,49 +94,51 @@ For Track B, you can [explore all embeddings here](/browse_embeddings/). We use 
 You can sort this table by the results in Track A or Track B. For more details, see the papers once they are released (some time in summer 2026).
 
 
-| Team                | Rank Track A   | Accuracy Track A (%)  | Rank Track B   | Accuracy Track B (%) |
+| Team                | Rank Track A   | Accuracy Track A   | Rank Track B   | Accuracy Track B   |
 |:--------------------|:---------------|:-------------------|:---------------|:-------------------|
 | COGNAC              | 1              | 78.00              | 1              | 72.00              |
 | FactUEP             | 2              | 75.75              | -              | -                  |
 | AI-Monitors         | 3              | 75.00              | -              | -                  |
 | TeleAI              | 4              | 74.75              | 4              | 69.50              |
 | YNU-HPCC            | 5              | 74.25              | 2              | 71.25              |
-| JCT Dvori and Rinat | 6              | 73.75              | -              | -                  |
-| CuriosAI            | 7              | 73.50              | 15             | 63.00              |
-| Yam                 | 8              | 73.00              | -              | -                  |
-| CascadeMind         | 9              | 72.75              | -              | -                  |
-| Team CV             | 10             | 70.75              | 13             | 64.50              |
-| hermeneutic_hools   | 11             | 70.50              | -              | -                  |
-| NCL&HKU-NarrSim     | 12             | 70.25              | 8              | 68.50              |
-| NarSiL              | 12             | 70.25              | -              | -                  |
-| DUTIR               | 14             | 69.75              | -              | -                  |
-| CITD@UIT            | 15             | 69.25              | 6              | 68.75              |
-| ttda704             | 15             | 69.25              | 6              | 68.75              |
-| Narrative Nexus     | 17             | 68.50              | -              | -                  |
-| Comhis              | 18             | 68.25              | 10             | 66.00              |
-| harapalb            | 18             | 68.25              | -              | -                  |
-| SoloSemantics       | 20             | 68.00              | 9              | 66.50              |
-| schmerle            | 21             | 67.75              | -              | -                  |
-| L3IRIT              | 22             | 65.75              | 19             | 61.00              |
-| NLP-FSDM            | 23             | 65.50              | 16             | 62.00              |
-| Team UBSE           | 24             | 65.25              | 12             | 64.75              |
-| MarSan              | 25             | 65.00              | 11             | 65.50              |
-| MoodMetric          | 25             | 65.00              | 16             | 62.00              |
-| PEU Lab             | 27             | 64.50              | -              | -                  |
-| Narrative Team      | 28             | 64.25              | 5              | 69.25              |
-| ChulaNLP            | 29             | 63.50              | 20             | 60.75              |
-| blue                | 30             | 62.50              | -              | -                  |
-| Team HausaNLP       | 31             | 61.50              | -              | -                  |
-| TFB                 | 32             | 61.25              | 18             | 61.50              |
-| Spinfo Cologne      | 33             | 60.25              | 23             | 57.75              |
-| LIAAD INESCTEC      | 34             | 59.75              | -              | -                  |
-| Cryptix             | 35             | 59.50              | 24             | 57.50              |
-| CICL26              | 36             | 59.00              | -              | -                  |
-| Duluth              | 37             | 58.50              | -              | -                  |
-| IIITH Boys          | 38             | 57.75              | 25             | 54.75              |
-| Lacuna Inc.         | 39             | 57.25              | 26             | 54.50              |
-| Mendel292           | 40             | 56.50              | 22             | 58.00              |
-| PLlama              | 41             | 55.50              | -              | -                  |
-| VerbaNexAI          | 42             | 53.50              | 21             | 59.25              |
+| UTD-HLTRI           | 6              | 74.00              | -              | -                  |
+| JCT Dvori and Rinat | 7              | 73.75              | -              | -                  |
+| CuriosAI            | 8              | 73.50              | 15             | 63.00              |
+| Yam                 | 9              | 73.00              | -              | -                  |
+| CascadeMind         | 10             | 72.75              | -              | -                  |
+| Team CV             | 11             | 70.75              | 13             | 64.50              |
+| hermeneutic_hools   | 12             | 70.50              | -              | -                  |
+| NCL&HKU-NarrSim     | 13             | 70.25              | 8              | 68.50              |
+| NarSiL              | 13             | 70.25              | -              | -                  |
+| DUTIR               | 15             | 69.75              | -              | -                  |
+| CophiWue            | 16             | 69.50              | 18             | 61.50              |
+| CITD@UIT            | 17             | 69.25              | 6              | 68.75              |
+| ttda704             | 17             | 69.25              | 6              | 68.75              |
+| Narrative Nexus     | 19             | 68.50              | -              | -                  |
+| harapalb            | 20             | 68.25              | -              | -                  |
+| Comhis              | 20             | 68.25              | 10             | 66.00              |
+| SoloSemantics       | 22             | 68.00              | 9              | 66.50              |
+| schmerle            | 23             | 67.75              | -              | -                  |
+| L3IRIT              | 24             | 65.75              | 20             | 61.00              |
+| NLP-FSDM            | 25             | 65.50              | 16             | 62.00              |
+| Team UBSE           | 26             | 65.25              | 12             | 64.75              |
+| MarSan              | 27             | 65.00              | 11             | 65.50              |
+| MoodMetric          | 27             | 65.00              | 16             | 62.00              |
+| PEU Lab             | 29             | 64.50              | -              | -                  |
+| Narrative Team      | 30             | 64.25              | 5              | 69.25              |
+| ChulaNLP            | 31             | 63.50              | 21             | 60.75              |
+| blue                | 32             | 62.50              | -              | -                  |
+| Team HausaNLP       | 33             | 61.50              | -              | -                  |
+| TFB                 | 34             | 61.25              | 18             | 61.50              |
+| Spinfo Cologne      | 35             | 60.25              | 24             | 57.75              |
+| LIAAD INESCTEC      | 36             | 59.75              | -              | -                  |
+| Cryptix             | 37             | 59.50              | 25             | 57.50              |
+| CICL26              | 38             | 59.00              | -              | -                  |
+| Duluth              | 39             | 58.50              | -              | -                  |
+| IIITH Boys          | 40             | 57.75              | 26             | 54.75              |
+| Lacuna Inc.         | 41             | 57.25              | 27             | 54.50              |
+| Mendel292           | 42             | 56.50              | 23             | 58.00              |
+| PLlama              | 43             | 55.50              | -              | -                  |
+| VerbaNexAI          | 44             | 53.50              | 22             | 59.25              |
 | CUNI                | -              | -                  | 14             | 64.25              |
 | hits_team           | -              | -                  | 3              | 70.50              |
