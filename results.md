@@ -94,7 +94,7 @@ For Track B, you can [explore all embeddings here](/browse_embeddings/). We use 
 You can sort this table by the results in Track A or Track B. For more details, see the papers once they are released (some time in summer 2026).
 
 
-| Team                | Rank Track A   | Accuracy Track A   | Rank Track B   | Accuracy Track B   |
+| Team                | Rank Track A   | Accuracy Track A (%)  | Rank Track B   | Accuracy Track B (%) |
 |:--------------------|:---------------|:-------------------|:---------------|:-------------------|
 | COGNAC              | 1              | 78.00              | 1              | 72.00              |
 | FactUEP             | 2              | 75.75              | -              | -                  |
