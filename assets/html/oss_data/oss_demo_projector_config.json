@@ -233,6 +233,15 @@
                 849,
                 3072
             ]
+        },
+        {
+            "metadataPath": "oss_data/CophiWue.tsv",
+            "tensorName": "CophiWue",
+            "tensorPath": "oss_data/CophiWue.bytes",
+            "tensorShape": [
+                849,
+                3072
+            ]
         }
     ],
     "modelCheckpointPath": "Demo datasets"
