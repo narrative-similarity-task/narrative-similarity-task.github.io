@@ -102,7 +102,7 @@ You can sort this table by the results in Track A or Track B. For more details, 
 | TeleAI              | 4              | 74.75              | 4              | 69.50              |
 | YNU-HPCC            | 5              | 74.25              | 2              | 71.25              |
 | UTD-HLTRI           | 6              | 74.00              | -              | -                  |
-| JCT Dvori and Rinat | 7              | 73.75              | -              | -                  |
+| JCT                 | 7              | 73.75              | -              | -                  |
 | CuriosAI            | 8              | 73.50              | 15             | 63.00              |
 | Yam                 | 9              | 73.00              | -              | -                  |
 | CascadeMind         | 10             | 72.75              | -              | -                  |
