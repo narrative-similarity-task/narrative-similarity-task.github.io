@@ -15,5 +15,5 @@ This preliminary timeline is subject to change:
 - 2026-03-02: Paper submission deadline
 - 2026-04-01: Deadline for submitting your reviews
 - 2026-04-09: Author notifications
-- 2026-04-30: Camera ready due
+- ~~2026-04-30~~ 2026-05-04: Camera ready due
 - 2026-07-03/2026-07-04: SemEval workshop
