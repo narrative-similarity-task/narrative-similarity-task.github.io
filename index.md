@@ -2,9 +2,9 @@
 layout: article
 title: Narrative Similarity Task
 ---
+This task has concluded. See the [results](/results) page for a comparison of all submissions and [our task description paper](https://arxiv.org/abs/2604.21782) for a full report.
 
-
-In the shared task **SemEval-2026 Task 4: Narrative Story Similarity and Narrative Representation Learning**, you (or rather your systems) are asked to identify narratively similar stories.
+In the shared task **SemEval-2026 Task 4: Narrative Story Similarity and Narrative Representation Learning**, participants (or rather their systems) were asked to identify narratively similar stories.
 We define Narrative similarity by three core similarity components: the *abstract theme*, the *course of action*, and the *outcomes* of a story.
 
 In simple terms, the aspects can be described as follows:
