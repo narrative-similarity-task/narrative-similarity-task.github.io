@@ -65,7 +65,7 @@ window.addEventListener('load', function() {
 The shared task has concluded; we are waiting for the review process of all papers to take its course. We thank all participating teams and especially those who have created system description papers for us all to learn from!
 This page captures the results for all teams; beside the final scores, you can also explore the decisions of each system on individual instances.
 
-Once available, we will link all papers on this page.
+We link to preprints where teams have made them available. See our [task paper](https://arxiv.org/abs/2604.21782) for a full overview of all systems.
 
 ## Result Exploration
 We offer two views for exploring the decisions all teams made for individual examples.
@@ -91,7 +91,7 @@ For Track B, you can [explore all embeddings here](/browse_embeddings/). We use 
 </div>
 
 ## Scores
-You can sort this table by the results in Track A or Track B. For more details, see the papers once they are released (some time in summer 2026).
+You can sort this table by the results in Track A or Track B. Teams with linked names have made preprints available.
 
 
 | Team                | Rank Track A   | Accuracy Track A (%)  | Rank Track B   | Accuracy Track B (%) |
@@ -105,9 +105,9 @@ You can sort this table by the results in Track A or Track B. For more details, 
 | JCT                 | 7              | 73.75              | -              | -                  |
 | CuriosAI            | 8              | 73.50              | 15             | 63.00              |
 | Yam                 | 9              | 73.00              | -              | -                  |
-| CascadeMind         | 10             | 72.75              | -              | -                  |
+| [CascadeMind](https://arxiv.org/abs/2601.19931) | 10 | 72.75              | -              | -                  |
 | Team CV             | 11             | 70.75              | 13             | 64.50              |
-| hermeneutic_hools   | 12             | 70.50              | -              | -                  |
+| [hermeneutic_hools](https://arxiv.org/abs/2603.22103) | 12 | 70.50 | - | - |
 | NCL&HKU-NarrSim     | 13             | 70.25              | 8              | 68.50              |
 | NarSiL              | 13             | 70.25              | -              | -                  |
 | DUTIR               | 15             | 69.75              | -              | -                  |
