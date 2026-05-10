@@ -109,7 +109,7 @@ You can sort this table by the results in Track A or Track B. Teams with linked 
 | Team CV             | 11             | 70.75              | 13             | 64.50              |
 | [hermeneutic_hools](https://arxiv.org/abs/2603.22103) | 12 | 70.50 | - | - |
 | NCL&HKU-NarrSim     | 13             | 70.25              | 8              | 68.50              |
-| NarSiL              | 13             | 70.25              | -              | -                  |
+| [NarSiL](https://kclpure.kcl.ac.uk/portal/en/publications/narsil-at-semeval-2026-task-4-a-multi-expert-multi-pathway-system/)| 13             | 70.25              | -              | -                  |
 | DUTIR               | 15             | 69.75              | -              | -                  |
 | CophiWue            | 16             | 69.50              | 18             | 61.50              |
 | CITD@UIT            | 17             | 69.25              | 6              | 68.75              |
