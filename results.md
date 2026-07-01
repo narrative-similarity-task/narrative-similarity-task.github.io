@@ -62,10 +62,10 @@ window.addEventListener('load', function() {
 });
 </script>
 
-The shared task has concluded; we are waiting for the review process of all papers to take its course. We thank all participating teams and especially those who have created system description papers for us all to learn from!
+The shared task has concluded; the system description papers have now been published in the ACL Anthology. We thank all participating teams and especially those who have created system description papers for us all to learn from!
 This page captures the results for all teams; beside the final scores, you can also explore the decisions of each system on individual instances.
 
-We link to preprints where teams have made them available. See our [task paper](https://arxiv.org/abs/2604.21782) for a full overview of all systems.
+All system papers are now available in the ACL Anthology; team names below link to each paper. See our [task paper](https://aclanthology.org/2026.semeval-1.429/) for a full overview of all systems.
 
 ## Result Exploration
 We offer two views for exploring the decisions all teams made for individual examples.
@@ -91,54 +91,54 @@ For Track B, you can [explore all embeddings here](/browse_embeddings/). We use 
 </div>
 
 ## Scores
-You can sort this table by the results in Track A or Track B. Teams with linked names have made preprints available.
+You can sort this table by the results in Track A or Track B. Team names link to each team's system description paper in the ACL Anthology.
 
 
 | Team                | Rank Track A   | Accuracy Track A (%)  | Rank Track B   | Accuracy Track B (%) |
 |:--------------------|:---------------|:-------------------|:---------------|:-------------------|
-| COGNAC              | 1              | 78.00              | 1              | 72.00              |
-| FactUEP             | 2              | 75.75              | -              | -                  |
-| AI-Monitors         | 3              | 75.00              | -              | -                  |
-| TeleAI              | 4              | 74.75              | 4              | 69.50              |
-| YNU-HPCC            | 5              | 74.25              | 2              | 71.25              |
-| UTD-HLTRI           | 6              | 74.00              | -              | -                  |
-| JCT                 | 7              | 73.75              | -              | -                  |
-| CuriosAI            | 8              | 73.50              | 15             | 63.00              |
-| Yam                 | 9              | 73.00              | -              | -                  |
-| [CascadeMind](https://arxiv.org/abs/2601.19931) | 10 | 72.75              | -              | -                  |
-| Team CV             | 11             | 70.75              | 13             | 64.50              |
-| [hermeneutic_hools](https://arxiv.org/abs/2603.22103) | 12 | 70.50 | - | - |
-| NCL&HKU-NarrSim     | 13             | 70.25              | 8              | 68.50              |
-| [NarSiL](https://kclpure.kcl.ac.uk/portal/en/publications/narsil-at-semeval-2026-task-4-a-multi-expert-multi-pathway-system/)| 13             | 70.25              | -              | -                  |
-| DUTIR               | 15             | 69.75              | -              | -                  |
-| CophiWue            | 16             | 69.50              | 18             | 61.50              |
-| CITD@UIT            | 17             | 69.25              | 6              | 68.75              |
-| ttda704             | 17             | 69.25              | 6              | 68.75              |
-| Narrative Nexus     | 19             | 68.50              | -              | -                  |
-| harapalb            | 20             | 68.25              | -              | -                  |
-| Comhis              | 20             | 68.25              | 10             | 66.00              |
-| SoloSemantics       | 22             | 68.00              | 9              | 66.50              |
-| schmerle            | 23             | 67.75              | -              | -                  |
-| L3IRIT              | 24             | 65.75              | 20             | 61.00              |
-| NLP-FSDM            | 25             | 65.50              | 16             | 62.00              |
-| Team UBSE           | 26             | 65.25              | 12             | 64.75              |
-| MarSan              | 27             | 65.00              | 11             | 65.50              |
-| MoodMetric          | 27             | 65.00              | 16             | 62.00              |
-| PEU Lab             | 29             | 64.50              | -              | -                  |
-| Narrative Team      | 30             | 64.25              | 5              | 69.25              |
-| ChulaNLP            | 31             | 63.50              | 21             | 60.75              |
-| blue                | 32             | 62.50              | -              | -                  |
-| Team HausaNLP       | 33             | 61.50              | -              | -                  |
-| TFB                 | 34             | 61.25              | 18             | 61.50              |
-| Spinfo Cologne      | 35             | 60.25              | 24             | 57.75              |
-| LIAAD INESCTEC      | 36             | 59.75              | -              | -                  |
-| Cryptix             | 37             | 59.50              | 25             | 57.50              |
-| CICL26              | 38             | 59.00              | -              | -                  |
-| Duluth              | 39             | 58.50              | -              | -                  |
-| IIITH Boys          | 40             | 57.75              | 26             | 54.75              |
-| Lacuna Inc.         | 41             | 57.25              | 27             | 54.50              |
-| Mendel292           | 42             | 56.50              | 23             | 58.00              |
-| PLlama              | 43             | 55.50              | -              | -                  |
-| VerbaNexAI          | 44             | 53.50              | 22             | 59.25              |
-| CUNI                | -              | -                  | 14             | 64.25              |
-| hits_team           | -              | -                  | 3              | 70.50              |
+| [COGNAC](https://aclanthology.org/2026.semeval-1.290/)           | 1              | 78.00              | 1              | 72.00              |
+| [FactUEP](https://aclanthology.org/2026.semeval-1.147/)          | 2              | 75.75              | -              | -                  |
+| [AI-Monitors](https://aclanthology.org/2026.semeval-1.271/)      | 3              | 75.00              | -              | -                  |
+| [TeleAI](https://aclanthology.org/2026.semeval-1.164/)           | 4              | 74.75              | 4              | 69.50              |
+| [YNU-HPCC](https://aclanthology.org/2026.semeval-1.63/)          | 5              | 74.25              | 2              | 71.25              |
+| [UTD-HLTRI](https://aclanthology.org/2026.semeval-1.433/)        | 6              | 74.00              | -              | -                  |
+| [JCT](https://aclanthology.org/2026.semeval-1.387/)              | 7              | 73.75              | -              | -                  |
+| [CuriosAI](https://aclanthology.org/2026.semeval-1.62/)          | 8              | 73.50              | 15             | 63.00              |
+| [Yam](https://aclanthology.org/2026.semeval-1.421/)              | 9              | 73.00              | -              | -                  |
+| [CascadeMind](https://aclanthology.org/2026.semeval-1.204/)      | 10 | 72.75              | -              | -                  |
+| [Team CV](https://aclanthology.org/2026.semeval-1.374/)          | 11             | 70.75              | 13             | 64.50              |
+| [hermeneutic_hools](https://aclanthology.org/2026.semeval-1.230/)| 12 | 70.50 | - | - |
+| [NCL&HKU-NarrSim](https://aclanthology.org/2026.semeval-1.188/)  | 13             | 70.25              | 8              | 68.50              |
+| [NarSiL](https://aclanthology.org/2026.semeval-1.381/)           | 13             | 70.25              | -              | -                  |
+| [DUTIR](https://aclanthology.org/2026.semeval-1.378/)            | 15             | 69.75              | -              | -                  |
+| [CophiWue](https://aclanthology.org/2026.semeval-1.430/)         | 16             | 69.50              | 18             | 61.50              |
+| [CITD@UIT](https://aclanthology.org/2026.semeval-1.158/)         | 17             | 69.25              | 6              | 68.75              |
+| [ttda704](https://aclanthology.org/2026.semeval-1.353/)          | 17             | 69.25              | 6              | 68.75              |
+| [Narrative Nexus](https://aclanthology.org/2026.semeval-1.352/)  | 19             | 68.50              | -              | -                  |
+| [harapalb](https://aclanthology.org/2026.semeval-1.283/)         | 20             | 68.25              | -              | -                  |
+| [Comhis](https://aclanthology.org/2026.semeval-1.118/)           | 20             | 68.25              | 10             | 66.00              |
+| [SoloSemantics](https://aclanthology.org/2026.semeval-1.201/)    | 22             | 68.00              | 9              | 66.50              |
+| [schmerle](https://aclanthology.org/2026.semeval-1.257/)         | 23             | 67.75              | -              | -                  |
+| [L3IRIT](https://aclanthology.org/2026.semeval-1.234/)           | 24             | 65.75              | 20             | 61.00              |
+| [NLP-FSDM](https://aclanthology.org/2026.semeval-1.88/)          | 25             | 65.50              | 16             | 62.00              |
+| [Team UBSE](https://aclanthology.org/2026.semeval-1.258/)        | 26             | 65.25              | 12             | 64.75              |
+| [MarSan](https://aclanthology.org/2026.semeval-1.33/)            | 27             | 65.00              | 11             | 65.50              |
+| [MoodMetric](https://aclanthology.org/2026.semeval-1.336/)       | 27             | 65.00              | 16             | 62.00              |
+| [PEU Lab](https://aclanthology.org/2026.semeval-1.136/)          | 29             | 64.50              | -              | -                  |
+| [Narrative Team](https://aclanthology.org/2026.semeval-1.22/)    | 30             | 64.25              | 5              | 69.25              |
+| [ChulaNLP](https://aclanthology.org/2026.semeval-1.341/)         | 31             | 63.50              | 21             | 60.75              |
+| [blue](https://aclanthology.org/2026.semeval-1.305/)             | 32             | 62.50              | -              | -                  |
+| [Team HausaNLP](https://aclanthology.org/2026.semeval-1.7/)      | 33             | 61.50              | -              | -                  |
+| [TFB](https://aclanthology.org/2026.semeval-1.367/)              | 34             | 61.25              | 18             | 61.50              |
+| [Spinfo Cologne](https://aclanthology.org/2026.semeval-1.299/)   | 35             | 60.25              | 24             | 57.75              |
+| [LIAAD INESCTEC](https://aclanthology.org/2026.semeval-1.277/)   | 36             | 59.75              | -              | -                  |
+| [Cryptix](https://aclanthology.org/2026.semeval-1.168/)          | 37             | 59.50              | 25             | 57.50              |
+| [CICL26](https://aclanthology.org/2026.semeval-1.310/)           | 38             | 59.00              | -              | -                  |
+| [Duluth](https://aclanthology.org/2026.semeval-1.127/)           | 39             | 58.50              | -              | -                  |
+| [IIITH Boys](https://aclanthology.org/2026.semeval-1.420/)       | 40             | 57.75              | 26             | 54.75              |
+| [Lacuna Inc.](https://aclanthology.org/2026.semeval-1.296/)      | 41             | 57.25              | 27             | 54.50              |
+| [Mendel292](https://aclanthology.org/2026.semeval-1.324/)        | 42             | 56.50              | 23             | 58.00              |
+| [PLlama](https://aclanthology.org/2026.semeval-1.337/)           | 43             | 55.50              | -              | -                  |
+| [VerbaNexAI](https://aclanthology.org/2026.semeval-1.392/)       | 44             | 53.50              | 22             | 59.25              |
+| [CUNI](https://aclanthology.org/2026.semeval-1.274/)             | -              | -                  | 14             | 64.25              |
+| [hits_team](https://aclanthology.org/2026.semeval-1.338/)        | -              | -                  | 3              | 70.50              |
